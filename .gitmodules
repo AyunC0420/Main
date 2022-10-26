@@ -1,0 +1,3 @@
+[submodule "subOfMain"]
+	path = subOfMain
+	url = https://github.com/AyunC0420/subOfMain.git
